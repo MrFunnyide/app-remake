@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">app-remake</string>
+    <string name="back">Back</string>
+    <string name="log_in">Log In</string>
+    <string name="masukkanemail">email</string>
+    <string name="masukkan_email">Masukkan Email Anda...</string>
+    <string name="login">Login</string>
+    <string name="name">Aji Bayu Permadi</string>
+    <string name="email">ajineo3@gmail.com</string>
+</resources>
